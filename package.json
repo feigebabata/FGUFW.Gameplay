@@ -9,8 +9,7 @@
   "changelogUrl": "https://github.com/feigebabata/FGUFW.Gameplay/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/feigebabata/FGUFW.Gameplay/blob/main/LICENSE.md",
   "dependencies": {
-    "com.unity.addressables": "1.21.17",
-    "com.unity.collections": "2.1.4"
+    "com.fgbbt.fgufw": "1.0.1"
 
  },
  "keywords": [
