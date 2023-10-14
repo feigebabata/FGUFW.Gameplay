@@ -1,0 +1,25 @@
+{
+  "name": "com.fgbbt.fgufw.gameplay",
+  "version": "1.0.0",
+  "displayName": "FGUFW.Gameplay",
+  "description": "fgbbt Unity Framework GamePlay",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/feigebabata/FGUFW.Gameplay/blob/main/Documentation~/com.fgbbt.fgufw.md",
+  "changelogUrl": "https://github.com/feigebabata/FGUFW.Gameplay/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/feigebabata/FGUFW.Gameplay/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.unity.addressables": "1.21.17",
+    "com.unity.collections": "2.1.4"
+
+ },
+ "keywords": [
+    "fgufw.gameplay",
+    "fgbbt",
+    "framework"
+  ],
+  "author": {
+    "name": "fgbbt",
+    "email": "feigebabata@outlook.com"
+  }
+}
